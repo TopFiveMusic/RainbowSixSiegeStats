@@ -1,5 +1,5 @@
 # RainbowSixSiegeStats
-[Русский]\r\n
-Программа для проверки статистики игроков игры Rainbow Six Siege\r\n
-[English]\r\n
+[Русский]
+Программа для проверки статистики игроков игры Rainbow Six Siege
+[English]
 Program to check the statistics of players Rainbow Six Siege game
